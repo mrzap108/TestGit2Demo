@@ -1,0 +1,14 @@
+D:\GitHubTest\TestGit2Demo\TestCodesInGitHub\bin\Debug\netcoreapp3.1\TestCodesInGitHub.exe
+D:\GitHubTest\TestGit2Demo\TestCodesInGitHub\bin\Debug\netcoreapp3.1\TestCodesInGitHub.deps.json
+D:\GitHubTest\TestGit2Demo\TestCodesInGitHub\bin\Debug\netcoreapp3.1\TestCodesInGitHub.runtimeconfig.json
+D:\GitHubTest\TestGit2Demo\TestCodesInGitHub\bin\Debug\netcoreapp3.1\TestCodesInGitHub.runtimeconfig.dev.json
+D:\GitHubTest\TestGit2Demo\TestCodesInGitHub\bin\Debug\netcoreapp3.1\TestCodesInGitHub.dll
+D:\GitHubTest\TestGit2Demo\TestCodesInGitHub\bin\Debug\netcoreapp3.1\TestCodesInGitHub.pdb
+D:\GitHubTest\TestGit2Demo\TestCodesInGitHub\obj\Debug\netcoreapp3.1\TestCodesInGitHub.csproj.AssemblyReference.cache
+D:\GitHubTest\TestGit2Demo\TestCodesInGitHub\obj\Debug\netcoreapp3.1\TestCodesInGitHub.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubTest\TestGit2Demo\TestCodesInGitHub\obj\Debug\netcoreapp3.1\TestCodesInGitHub.AssemblyInfoInputs.cache
+D:\GitHubTest\TestGit2Demo\TestCodesInGitHub\obj\Debug\netcoreapp3.1\TestCodesInGitHub.AssemblyInfo.cs
+D:\GitHubTest\TestGit2Demo\TestCodesInGitHub\obj\Debug\netcoreapp3.1\TestCodesInGitHub.csproj.CoreCompileInputs.cache
+D:\GitHubTest\TestGit2Demo\TestCodesInGitHub\obj\Debug\netcoreapp3.1\TestCodesInGitHub.dll
+D:\GitHubTest\TestGit2Demo\TestCodesInGitHub\obj\Debug\netcoreapp3.1\TestCodesInGitHub.pdb
+D:\GitHubTest\TestGit2Demo\TestCodesInGitHub\obj\Debug\netcoreapp3.1\TestCodesInGitHub.genruntimeconfig.cache
